@@ -6,3 +6,7 @@
 ### Sorting
 1. Insertion Sort
 2. Merge Sort
+
+Maintained by:
+ISHIKA DUBEY
+ANUKRATI SAXENA
