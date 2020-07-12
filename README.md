@@ -7,10 +7,7 @@
 1. Insertion Sort
 2. Merge Sort
 
-## [Contributors](https://github.com/vinitshahdeo/PortScanner/graphs/contributors) :trophy:
-
-[![GitHub issues](https://img.shields.io/github/issues/vinitshahdeo/PortScanner?logo=github)](https://github.com/vinitshahdeo/PortScanner/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/vinitshahdeo/PortScanner?color=olive&logo=github)](https://github.com/vinitshahdeo/PortScanner/pulls)
-
+## [Contributors](https://github.com/ishika1727/The-Algorithms/graphs/contributors) 
 
 |      Name   |     Social Media   | GitHub |
 |:-------------:|:-------------------|------------------|
