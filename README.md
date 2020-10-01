@@ -7,6 +7,9 @@
 1. Insertion Sort
 2. Merge Sort
 
+### Stack
+1. Maximum In Window
+
 ## [Contributors](https://github.com/ishika1727/The-Algorithms/graphs/contributors) 
 
 |      Name   |     Social Media   | GitHub |
