@@ -10,7 +10,7 @@
 ### Stack
 1. Maximum In Window
 
-## [Contributors](https://github.com/ishika1727/The-Algorithms/graphs/contributors) 
+## [Contributors]
 
 |      Name   |     Social Media   | GitHub |
 |:-------------:|:-------------------|------------------|
